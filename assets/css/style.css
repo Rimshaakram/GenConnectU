@@ -1,0 +1,292 @@
+body {
+  font-family: "montserrat";
+}
+.footer i:hover {
+  color: #ef4853;
+}
+.footer a:hover {
+  color: #ef4853;
+}
+.navbar a:hover {
+  color: #ef4853;
+}
+.navbar i:hover {
+  color: #ef4853;
+}
+
+.courses a:hover {
+  color: #ef4853;
+}
+.featured a:hover {
+  color: #ef4853;
+}
+.footer i {
+  color: black;
+}
+
+.header img {
+  width: 50%;
+}
+@media (min-width: 1200px) {
+  .mt-15 {
+    margin-top: -3.5rem;
+  }
+}
+.mt-n6 {
+  margin-top: -1rem;
+}
+.mt-n15 {
+  margin-top: -2.5rem;
+}
+.mt-10 {
+  margin-top: 6.5rem;
+}
+.mt-6 {
+  margin-top: 5.5rem;
+}
+.mt-13 {
+  margin-top: 7.5rem;
+}
+
+.mt-25 {
+  margin-top: -5rem;
+}
+.mt-20 {
+  margin-top: -4.5rem;
+}
+
+.px-6 {
+  padding-left: 1.5rem;
+  padding-right: 1.5rem;
+}
+#enterprise {
+  width: 150%;
+}
+#plans {
+  width: 150%;
+}
+.navbar i {
+  color: black;
+}
+
+.team {
+  margin-top: -4%;
+}
+.team img {
+  width: 100%;
+}
+.team #text {
+  margin-top: 20%;
+}
+#leadership {
+  margin-top: 45%;
+  background-color: white;
+  margin-left: 54%;
+  text-align: center;
+  /* width: 45%; */
+  color: grey;
+  height: 17%;
+  font-size: 20px;
+}
+.leadership img {
+  border-radius: 0px;
+}
+
+.leadership #skills {
+  background-color: #ef4853;
+  color: white;
+  margin-top: -5%;
+  margin-left: 55%;
+  font-size: 10px;
+  /* width: 43%; */
+}
+.leadership h6 {
+  color: #ef4853;
+}
+.certificate h5 {
+  color: #ef4853;
+}
+.work #heading {
+  color: #ef4853;
+}
+.featured-experts .container {
+  background-color: var(--bs-border-color);
+  border-radius: 23px;
+  padding: 10px;
+}
+
+.footer p {
+  color: #979ca7;
+  font-size: 14px;
+}
+.footer a {
+  color: #979ca7;
+  font-size: 14px;
+}
+.fs-20 {
+  font-size: 8px;
+}
+#new {
+  border-radius: 15px;
+  font-size: 10px;
+}
+.courses img {
+  border-radius: 30px;
+}
+#fnt {
+  font-size: 17px;
+}
+.courses a {
+  color: white;
+  font-size: 30px;
+  margin-left: 150px;
+}
+.featured a {
+  color: white;
+  font-size: 30px;
+  margin-left: 150px;
+}
+@media screen and (max-width: 1199px) {
+  #leadership {
+    margin-top: 45%;
+    background-color: white;
+    margin-left: 54%;
+    text-align: center;
+    width: 45%;
+    color: grey;
+    height: 17%;
+    font-size: 15px;
+  }
+  .leadership #skills {
+    background-color: #ef4853;
+    color: white;
+    margin-top: -5%;
+    margin-left: 55%;
+    font-size: 8px;
+    width: 45%;
+  }
+  .fs-20 {
+    font-size: 8px;
+  }
+  #new {
+    border-radius: 20px;
+    font-size: 10px;
+  }
+  #fnt {
+    font-size: 8px;
+    width: 75%;
+  }
+  .courses a {
+    color: white;
+    font-size: 30px;
+    margin-left: 110px;
+  }
+
+  /* .mt-n6 {
+    margin-top: -1rem;
+  }
+  #name {
+    margin-top: -0.5rem;
+  } */
+}
+@media screen and (max-width: 992px) {
+  #text {
+    font-size: 25px;
+  }
+  #leadership {
+    margin-top: 45%;
+    background-color: white;
+    margin-left: 54%;
+    text-align: center;
+    width: 45%;
+    color: grey;
+    height: 17%;
+    font-size: 24px;
+  }
+  .leadership #skills {
+    background-color: #ef4853;
+    color: white;
+    margin-top: -5%;
+    margin-left: 55%;
+    font-size: 13px;
+    width: 45%;
+  }
+  #tag {
+    margin-left: 80px;
+  }
+  .fs-20 {
+    font-size: 5px;
+  }
+  #new {
+    border-radius: 20px;
+    font-size: 7px;
+  }
+  #fnt {
+    font-size: 7px;
+    /* margin-top: 55%; */
+  }
+  .mt-13 {
+    margin-top: 2.5rem;
+  }
+  /* .mt-md-25 {
+    margin-top: -5.5rem;
+  }
+  #name {
+    margin-top: -0.5rem;
+  } */
+  /* .outcomes .col-6 img {
+    margin-left: -14%;
+  } */
+  .mt-lg-25 {
+    margin-top: -5rem;
+  }
+}
+@media screen and (max-width: 767px) {
+  #text {
+    font-size: 15px;
+  }
+
+  #leadership {
+    margin-top: 45%;
+    background-color: white;
+    margin-left: 54%;
+    text-align: center;
+    width: 46%;
+    color: grey;
+    height: 17%;
+    font-size: 17px;
+  }
+  .leadership #skills {
+    background-color: #ef4853;
+    color: white;
+    margin-top: -5%;
+    margin-left: 55%;
+    font-size: 10px;
+    width: 45%;
+  }
+  /* .outcomes .col-6 img {
+    margin-left: -44%;
+  }
+  .outcomes h5 {
+    margin-left: 14%;
+  }
+  .outcomes p {
+    margin-left: 14%;
+  }
+  .outcomes button {
+    margin-left: 14%;
+  } */
+  #tag {
+    margin-left: 50px;
+    font-size: 10px;
+  }
+  .featured button {
+    font-size: 10px;
+  }
+  .featured .feature-text {
+    font-size: 15px;
+  }
+  .mt-25 {
+    margin-top: -5rem;
+  }
+}
